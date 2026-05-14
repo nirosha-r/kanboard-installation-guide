@@ -9,7 +9,7 @@ Kanboard is a free and open-source project management software that implemts the
 ## 📦 Prerequisites
 - **OS:** CentOS/RHEL/Fedora or Ubuntu/Debian  
 - **Webserver:** Apache or Nginx  
-- **PHP:** ≥ 7.4 with extensions: `pdo_mysql`, `gd`, `mbstring`, `openssl`, `json`, `xml`  
+- **PHP:** ≥ 7.4 (v8.3 used) with extensions: `pdo_mysql`, `gd`, `mbstring`, `openssl`, `json`, `xml`  
 - **Database:** MySQL (preferred)  
 - **Git:** for cloning Kanboard and plugins  
 
